@@ -1,87 +1,296 @@
 [
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Demi konten, up youtube dulu kita boy"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Udh tau cepu kenapa masih di kasih? Akal nya dimana?"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "keren, kapan ya bisa jago"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "wih cepu, kapan ya bisa gitu?"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Jangan di suapin terus, Kapan mandiri nya"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Gak ada referensi ya? Pantes maling terus"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Makanya copy yang bener"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Baca dulu, pahami terus copy"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Gua bukan dukun, Kalo ga di kasih tunjuk fiturnya ga bisa kasih solusi dodol"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Keren, kapan ya bisa sebar fitur?"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Jika pelit lanjutkan"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Jangan di suapin terus, Kapan mandiri nya"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Mastah memang beda"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "keren, kapan ya bisa jago"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Jika pelit lanjutkan"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "Gak ada referensi ya? Pantes maling terus"
-},
-{
-  "status": true,
-  "creator": "RendyGans",
-  "result": "minjam uangnya dong, tetapi bailikinya kapan-kapan"
-}
+  {
+    "result": "Jangan iri dengan kesuksesan orang lain, bisa jadi ia bekerja keras tanpa kamu ketahui."
+  },
+  {
+    "result": "Omonganmu seperti parfum isi ulang, wangi tapi palsu."
+  },
+  {
+    "result": "Kamu kira pacarmu ahli IT yang bisa kamu kode-kode terus."
+  },
+  {
+    "result": "Omonganmu kayak Balon warna-warni, tapi sayang, isi-nya angin doang."
+  },
+  {
+    "result": "Langit tidak pernah menunjukkan bahwa dirinya tinggi. Ia membuktikannya sendiri."
+  },
+  {
+    "result": "Wajah itu dirawat, bukan diedit aplikasi."
+  },
+  {
+    "result": "Penyesalan itu tiba di akhir, jika di awal namanya pendaftaran kali"
+  },
+  {
+    "result": "Jika ada seseorang yang meledekmu jelek, santai saja. Bilang padanya kalau kamu bukan cermin."
+  },
+  {
+    "result": "Jangan pernah membicarakan kejelekan yang dimiliki oleh orang lain. Karena sesungguhnya orang yang membicarakan itulah yang menjadi orang jelek."
+  },
+  {
+    "result": "Ya Tuhan jika dia bukan jodohku, tolong hapuskan kata bukan dari hidup ini."
+  },
+  {
+    "result": "Kejujuran itu dimulai dari foto profil media sosial."
+  },
+  {
+    "result": "Katanya janji dibawa mati, berarti nanti matimu gak bakal tenang ya karena udah terlalu banyak janji yang kamu ucapkan buat aku."
+  },
+  {
+    "result": "Hidup ini memang sandiwara, sayangnya banyak yang aktingnya buruk."
+  },
+  {
+    "result": "Jika kau berpikir tak ada seorang pun yang peduli padamu, cobalah menunggak utang."
+  },
+  {
+    "result": "Cantik sih tapi rela bagi-bagi?"
+  },
+  {
+    "result": "Buktikan kemampuanmu dengan karya terbaikmu, Jika kau diam itu semuanya hanya semu."
+  },
+  {
+    "result": "Tak semua pria itu brengsek. Percayalah, ada pria yang baik di setiap sudut bumi ini. Tapi, bumi itu bulat."
+  },
+  {
+    "result": "Kebohongan yang diceritakan terlalu sering lama-lama akan terasa seperti kebenaran."
+  },
+  {
+    "result": "Ini hidup saya, kok kamuyang jadi sutradara."
+  },
+  {
+    "result": "Eh, itu yang dulu pernah bilang katanya gak akan pergi, tolong kunci aja mulutnya."
+  },
+  {
+    "result": "Bekerjalah seperti tuyul, tidak kelihatan, tidak butuh pujian, tidak gila jabatan, dan tidak pula cari perhatian. Tapi, hasilnya jelas."
+  },
+  {
+    "result": "Jika berbohong adalah pekerjaan, aku kenal beberapa orang yang akan jadi jutawan."
+  },
+  {
+    "result": "Saat hidup menutup pintu untukmu, buka lagi saja. Itu hanya pintu, itulah cara kerjanya."
+  },
+  {
+    "result": "Indonesia itu gak ada musim dingin, tapi kenapa kamu bisa sedingin ini ya. Jangan-jangan kamu bule?"
+  },
+  {
+    "result": "Jika kamu mencoba untuk gagal, dan berhasil, apa yang sudah kamu lakukan?"
+  },
+  {
+    "result": "Kau tidak akan pernah memahami seseorang hingga kau melihat segala sesuatu dari sudut pandangnya. Hingga kau menyusup ke balik kulitnya dan menajalani hidup dengan caranya."
+  },
+  {
+    "result": "Suaramu terdengar lebih merdu ketika mulutmu tertutup."
+  },
+  {
+    "result": "Jangan jadi orang lucu karena ujung-ujungnya cuma enak dijadiin temen."
+  },
+  {
+    "result": "Seberat apa pun pekerjaan, jika tidak dikerjakan pasti akan terasa ringan."
+  },
+  {
+    "result": "Kamu sama dia sebastian ya, sebatas teman tanpa kepastian"
+  },
+  {
+    "result": "Boleh copy paste, tapi jangan lupa cantumkan sumber. Terimakasih."
+  },
+  {
+    "result": "Boro-boro mau punya pacar, punya pulpen satu aja gak pernah awet, hilang mulu"
+  },
+  {
+    "result": "Jika ada orang yang bilang kamu jelek, jangan putus asa. Belum tentu orang itu berkata bohong."
+  },
+  {
+    "result": "Aku bukan keset yang selalu bisa welcome kamu walaupun kamu telah melakukan banyak kesalahan."
+  },
+  {
+    "result": "Berteman saja masih pilih-pilih. Memangnya, ada orang yang mau berteman sama orang yang pekerjaannya hanya memanfaatkan orang saja?"
+  },
+  {
+    "result": "Mereka berkata bahwa impian yang saya miliki terlampau besar. Dan saya bilang bahwa mereka berpikiran yang terlalu kecil."
+  },
+  {
+    "result": "Ya, namanya juga teman. Ada yang baik, ada juga yang munafik."
+  },
+  {
+    "result": "Oh, salahku. Maaf sudah mengganggumu. Aku lupa aku hanya ada ketika kamu membutuhkan sesuatu dariku."
+  },
+  {
+    "result": "Debat sama orang yang kurang peka itu susah. Kamu salah, pasti akan kalah dan jika kamu benar pun kau akan tetap kalah."
+  },
+  {
+    "result": "Tujuan dari mengirimkan pesan singkat adalah supaya segera mendapat balasan dalam hitungan menit. Kalau tidak, aku lebih baik menggunakan jasa pos."
+  },
+  {
+    "result": "Ya Tuhan, saya tahu kalau harta itu memang titipan, tapi tolong titipkan harta itu pada saya lebih banyak."
+  },
+  {
+    "result": "Tahu nggak kalau kamu itu sebastian, sebatas teman tanpa adanya kepastian."
+  },
+  {
+    "result": "Kalau kamu mau makan teman, jangan lupa tambahkan nasi biar makin kenyang."
+  },
+  {
+    "result": "Menghitung dosa orang lain tidak langsung membuatmu menjadi orang yang suci."
+  },
+  {
+    "result": "Aku suka mendengarkan gosip, aku kagum bagaimana orang-orang bisa tahu hal-hal yang tidak kuketahui tentang diriku."
+  },
+  {
+    "result": "Nggak usah menghina para jomblo, pacarmu saja kalau ketemu yang lebih keren dikit langsung ngaku jomblo."
+  },
+  {
+    "result": "Perjalan hidup indah dapat terwujud apabila seseorang mampu berbagi, bukan hanya menikmatinya sendiri."
+  },
+  {
+    "result": "Perbuatan baik akan kembali pada pelakunya. Banyak-banyaklah menanam kebaikan."
+  },
+  {
+    "result": "Banyak orang terlalu pintar menilai orang lain, tapi sayang dia terlalu bodoh menilai dirinya sendiri."
+  },
+  {
+    "result": "Terkadang pahlawan terbesar juga bisa menjadi seorang idiot."
+  },
+  {
+    "result": "Lebih baik ditertawakan karena belum menikah daripada tak bisa tertawa setelah menikah."
+  },
+  {
+    "result": "Beberapa teman seperti uang receh, bermuka dua dan nilainya juga tidak seberapa."
+  },
+  {
+    "result": "Selalu bersyukurlah, meskipun kamu jelek."
+  },
+  {
+    "result": "Gimana bisa move-on jika dikit-dikit malah stalking sosmed milik mantan."
+  },
+  {
+    "result": "Bicarakan aku sepuasnya. Kelak, akan ada balasan untuk setiap kalimat yang kamu keluarkan."
+  },
+  {
+    "result": "Merendah bukan berarti rendah. Mengalah bukan berarti kalah. Memahami bukan berarti paham."
+  },
+  {
+    "result": "Ternyata tikungan teman lebih tajam daripada tikungan jalan arena balap ya."
+  },
+  {
+    "result": "Pacaran itu sama AC yang bisa bikin adem terus"
+  },
+  {
+    "result": "Tiga hal yang bikin seseorang tidak disukai: otak yang kosong, omong kosong, dan dompet yang kosong."
+  },
+  {
+    "result": "Sifat sok tahu yang dimiliki seseorang hanya akan membuatnya makin tidak tahu"
+  },
+  {
+    "result": "Aku penasaran bagaimana caramu bersisir hingga tandukmu bisa tak nampak."
+  },
+  {
+    "result": "Mungkin kamu perlu mulai makan make up, jadi kamu bisa membuat dirimu cantik dari dalam sekaligus."
+  },
+  {
+    "result": "Kamu tidak akan menemukan pendamping hidup yang tepat jika kamu tinggal di Mars."
+  },
+  {
+    "result": "Pepatah bijak berkata tidak akan pernah ada kata terlambat untuk belajar. Berarti belajar mencintai pacar orang juga masih bisa."
+  },
+  {
+    "result": "Aku sampai lupa kalau punya pacar karena dia tak pernah memberi kabar."
+  },
+  {
+    "result": "Bodoh kok dipelihara, melihara sapi tuh baru bisa gemuk."
+  },
+  {
+    "result": "Kita hidup pada zaman di mana saat bertanya malah dikatain kepo dan berbuat baik dianggap modus."
+  },
+  {
+    "result": "Aku bersedia mencintaimu dalam diam, karena diam berarti tak ada penolakan."
+  },
+  {
+    "result": "Pasti kamu capek karena harus pakai makeup di dua wajah sekaligus."
+  },
+  {
+    "result": "Semoga pacarmu memiliki hati yang kuat, aku hanya ingin mengatakan padanya bahwa tidak ada salahnya untuk menyerah diawal"
+  },
+  {
+    "result": "Sampah aja dibuang sembarangan, apalagi pacar."
+  },
+  {
+    "result": "Mungkin aku harus tidur dulu karena ternyata pura-pura bahagia itu melelahkan."
+  },
+  {
+    "result": "Mungkin benar apa kata orang bahwa cinta itu memang buta dan juga tuli, namun 'cinta jugalah yang mampu untuk merasakan."
+  },
+  {
+    "result": "Katanya pencinta kopi, tapi mintanya dimanisin mulu."
+  },
+  {
+    "result": "Ya Allah harta itu memang hanya titipan, tapi mbok ya saya dititipin agak banyak gitu"
+  },
+  {
+    "result": "Kadang lebih baik meninggalkan mantanmu di masa lalu daripada membawa kesalahan yang sama untuk masa depanmu."
+  },
+  {
+    "result": "Jika seseorang melemparmu dengan batu, balaslah dengan bunga…sekalian dengan potnya."
+  },
+  {
+    "result": "Dengan menjadi pribadi yang sederhana, seseorang akan menjadi dermawan."
+  },
+  {
+    "result": "Terima kasih karena telah diam-diam kepo, stalking Instagramku."
+  },
+  {
+    "result": "Karena gak semua masalah harus diceritain, karena semua teman belum tentu bisa dipercaya."
+  },
+  {
+    "result": "Rindu itu berat. Aku tak akan kuat. Biar kamu saja."
+  },
+  {
+    "result": "Orang bijak mengatakan jangan takut dengan perubahan, tapi mengapa aku takut ketika perasaanmu sudah berubah padaku."
+  },
+  {
+    "result": "Tuhan, tolong beri aku kesabaran. Kalau Engkau beri kekuatan, mungkin aku akan memukul orang itu tepat di wajahnya."
+  },
+  {
+    "result": "Jika hidupmu habis untuk mengomentari orang lain, kapan waktumu untuk memperbaiki diri?"
+  },
+  {
+    "result": "Teman datang seiring banyaknya kebutuhan."
+  },
+  {
+    "result": "Kalau tidak ada chat grup WA mungkin HP ku sudah ku museumkan"
+  },
+  {
+    "result": "Tidak apa-apa jika kamu tidak menyukaiku. Tidak semua orang memiliki selera yang baik."
+  },
+  {
+    "result": "Sekuat apa pun kau perjuangkan, yang pergi akan tetap pergi, memang sudah jalannya kok"
+  },
+  {
+    "result": "Karena gak semua masalah harus diceritain, karena Semua teman belum tentu bisa dipercaya."
+  },
+  {
+    "result": "Kamu tak perlu mengatakan apa yang telah kamu lakukan. Aku sudah tahu, aku tahu darinya. Sekarang tidak ada lagi kesempatan bagiku dan dirimu. Tak akan pernah ada."
+  },
+  {
+    "result": "Kamu itu baik banget. Tapi sayang, cuma pas ada maunya."
+  },
+  {
+    "result": "Kamu percaya nggak sama teori evolusi darwin?. Mulanya aku nggak percaya, tapi setelah berteman sama kamu, aku mulai percaya sama darwin."
+  },
+  {
+    "result": "Wanita sangat rentan mengidap diabetes, sebab dia sering kali menelan janji manis."
+  },
+  {
+    "result": "Tidak masalah. Kamu hanya melupakan dirimu yang sebenarnya. Selamat datang kembali."
+  },
+  {
+    "result": "Jangan lupa pakai deodoran biar setia setiap saat"
+  },
+  {
+    "result": "Orang bijak akan merasa malu jika kata-katanya lebih baik daripada tindakannya."
+  },
+  {
+    "result": "Aku bukan menghinamu, aku cuma mendeskripsikanmu."
+  },
+  {
+    "result": "Melihatmu pergi dari hidupku tidak akan membuatku membenci cinta. Tapi, hal itu kemudian membuatku sadar. Jika aku pernah bahagia dengan orang yang salah, bayangkan betapa bahagianya diriku bersama dengan orang yang tepat."
+  }
 ]
